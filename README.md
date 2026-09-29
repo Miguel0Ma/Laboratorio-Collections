@@ -10,3 +10,4 @@ Aquí tienes, en corto:
 - **Ej. 11 — LinkedHashSet (favoritos):** igual que el 10, pero recordando el orden en que se marcaron como favoritas.
 - **Ej. 13 — PriorityQueue (triage):** como el 4, pero permite que la urgencia de un paciente cambie mientras espera, reinsertándolo para reordenar.
 - **Ej. 15 — HashMap (directorio):** asocia nombre → teléfono, evita nombres duplicados y permite buscar/actualizar rápido.
+Miguel Angel Maya Colorado / Santiago Vega Cifuentes
